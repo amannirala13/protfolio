@@ -327,6 +327,10 @@ span.menu-close i {
   border-bottom: 1px solid #fff;
 }
 
+#anim_text{
+font-size: 100px;
+}
+
 .author-details h1 {
 	font-size: 130px;
 	color: #fff;
