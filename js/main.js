@@ -98,38 +98,38 @@
     
     // circle-progress-1
     $('#uiux-progress').circleProgress({
-      value: 0.73,
+      value: 0.90,
       size: 200,
       fill: "#6928d9",
       thickness: 10,
       emptyFill: "#15154c",
       startAngle: -1.55,
     }).on('circle-animation-progress', function(event, progress) {
-      $(this).find('.progress-percentage').html(Math.round(73 * progress) + '<i>%</i>');
+      $(this).find('.progress-percentage').html(Math.round(90 * progress) + '<i>%</i>');
     });
 
      // circle-progress-2
     $('#development-progress').circleProgress({
-      value: 0.85,
+      value: 0.95,
       size: 200,
       fill: "#1573ff",
       thickness: 10,
       emptyFill: "#15154c",
       startAngle: -1.55,
     }).on('circle-animation-progress', function(event, progress) {
-      $(this).find('.progress-percentage').html(Math.round(85 * progress) + '<i>%</i>');
+      $(this).find('.progress-percentage').html(Math.round(95 * progress) + '<i>%</i>');
     });
 
      // circle-progress-3
     $('#branding-progress').circleProgress({
-      value: 0.48,
+      value: 0.75,
       size: 200,
       fill: "#16ffdb",
       thickness: 10,
       emptyFill: "#15154c",
       startAngle: -1.55,
     }).on('circle-animation-progress', function(event, progress) {
-      $(this).find('.progress-percentage').html(Math.round(48 * progress) + '<i>%</i>');
+      $(this).find('.progress-percentage').html(Math.round(75 * progress) + '<i>%</i>');
     });
 
      // circle-progress-4
