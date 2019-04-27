@@ -37,7 +37,6 @@
 body {
   font-family: 'Rubik', sans-serif;
 }
-
 h1,
 h2,
 h3,
@@ -335,7 +334,7 @@ font-size: 100px;
 	font-size: 130px;
 	color: #fff;
 	margin-top: 10px;
-	line-height: 1;
+  line-height: 1;
 }
 
 .author-img {
