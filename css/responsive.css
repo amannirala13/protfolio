@@ -1,0 +1,490 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+	
+	.pl-90 {
+		padding-left: 115px;
+	}
+
+	.author-details h1 {
+		font-size: 80px;
+	}
+
+	.about-details p{
+		line-height: 23px;
+	}
+
+	/* .footer-right {
+	    padding-left: 45px;
+	} */
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+	.author-details h1 {
+	    font-size: 70px;
+	}
+
+	.pl-90{
+		padding-left: 5%;
+	}
+
+	.pr-90{
+		padding-right: 5%;
+	}
+
+	.offcanvas-menu{
+		width: 315px;
+	}
+
+	.offcanvas-social i{
+		margin: 1.5px;
+	}
+
+	.about-image .me {
+		padding-right: 0;
+	}
+
+	.img-shape-1 {
+	    right: 10px;
+	}
+
+	.about-details{
+		padding: 2px 0;
+	}
+
+	.about-details span {
+		font-size: 12px;
+	}
+
+	.about-details h3 {
+	    font-size: 45px;
+	    margin: 18px 0;
+	}
+
+	.about-details a{
+		font-size: 17px;
+	}
+
+	.about-details p{
+		font-size: 13px;
+	}
+
+	a.section-btn {
+	    font-size: 14px;
+	    padding: 13px 28px;
+	}
+
+	.edu-title{
+		margin-top: 100px;
+	}
+
+	.edu-year {
+	    padding-bottom: 32px;
+	}
+
+	.skill-edu-shape {
+	    top: 50%;
+	    left: 45%;
+	}
+
+	.team-hover {
+	    left: 23px;
+	}
+
+	.testimonial-content{
+	  margin-top: 50px;
+	}
+
+	.blog-bg img {
+	    height: 240px;
+	}
+
+	.footer-right {
+	    padding-left: 50px;
+	}
+
+}
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+	.offcanvas-menu{
+		width: 310px;
+		right: -310px;
+	}
+
+	.offcanvas-social i{
+		margin: 1px;
+	}
+
+	.img-shape-1 {
+	    top: 135px;
+	    right: 58px;
+	}
+
+	.img-shape-2 {
+	    left: -23px;
+	}
+
+	.img-shape-3 {
+	    bottom: 68px;
+	    right: 27px;
+	}
+
+	.author-details p {
+	    font-size: 32px;
+	}
+
+	.author-details h1 {
+	    font-size: 57px;
+	}
+
+	.pl-90{
+		padding-left: 3%;
+	}
+
+	.pr-90{
+		padding-right: 3%;
+	}
+
+	.about-image .me {
+	   margin-top: 65px;
+	   padding-right: 0;
+	}
+	
+	.about-img-shape img{
+		width: 60px;
+	}
+
+	.about-details{
+		padding: 2px 0;
+	}
+
+	.about-details span {
+		font-size: 12px;
+	}
+
+	.about-details h3 {
+	    font-size: 35px;
+    	margin: 15px 0;
+	}
+
+	.about-details a{
+		font-size: 16px;
+		margin-bottom: 12px;
+	}
+
+	.about-details p{
+		font-size: 13px;
+		padding-bottom: 0;
+	}
+
+	a.section-btn {
+	    font-size: 14px;
+	    padding: 12px 27px;
+	}
+
+	.edu-title{
+		margin-top: 100px;
+	}
+
+	.edu-year {
+	    padding-bottom: 34px;
+	}
+
+	.skill-edu-shape {
+	    bottom: -100px;
+	}
+
+	.team-img {
+	    height: 335px;
+	}
+
+	.team-hover {
+	    left: 5px;
+	}
+
+	.team-hover a i {
+	    height: 37px;
+	    width: 37px;
+	    font-size: 14px;
+	    margin: 0px;
+	}
+
+	.testimonial-content{
+	  margin-top: 0;
+	}
+
+	span.quality {
+	    font-size: 16px;
+	}
+
+	.testimonial-content h4 {
+	    font-size: 29px;
+	    margin: 20px 0;
+	}
+
+	.testimonial-img{
+		margin-top: 30px;
+	}
+
+	.tst-men-inf {
+	    margin-top: 20px;
+	    margin-bottom: 20px;
+	}
+
+	.name-com {
+	    font-size: 10px;
+	}
+	
+	.blog-content {
+	    padding: 5px;
+	}
+
+	.blog-bg img {
+	    height: 210px;
+	}
+
+	.blog-content h4 {
+	    font-size: 22px;
+	    padding: 15px 0;
+	}
+
+	.footer-social a {
+	    margin-right: 13px;
+	}
+
+	.footer-top ul{
+		float: right;
+	}
+
+	.footer-right {
+	    padding-left: 0;
+	}
+
+}
+ 
+/* Extra small Device. */
+@media (max-width: 767px) {
+header {
+	padding: 20px 0;
+}
+	.author-img {
+	   display: none;
+	}
+
+	.author-details p {
+	    font-size: 30px;
+	}
+
+	.author-details h1 {
+	    font-size: 45px;
+	}
+
+	.pl-90{
+		padding-left: 15px;
+	}
+
+	.pr-90{
+		padding-right: 15px;
+	}
+
+	.offcanvas-menu {
+	    right: -62%;
+	    width: 62%;
+	}
+
+	.menu-item-inner{
+		padding-right: 10%;
+	}
+
+	.menu-item-inner ul {
+	    padding-right: 15px;
+	}
+
+	.menu-item-inner li:hover span {
+	    padding-right: 13px;
+	}
+
+	.offcanvas-social i {
+	    height: 35px;
+	    width: 35px;
+	    margin: 1px;
+	    line-height: 36px;
+	}
+
+	.menu-item-inner li a i{
+		width: 28px;
+	}
+
+	.menu-item-inner li a {
+	    font-size: 15px;
+	}
+
+	.menu-item-inner li a i{
+	    font-size: 15px;
+	}
+
+	.span.menu-close i{
+		font-size: 30px;
+	}
+
+	.girl-info h5 {
+	    font-size: 27px;
+	}
+
+	.section-title h3 {
+	    font-size: 45px;
+	}
+
+	a.section-btn {
+	    padding: 14px 29px;
+	}
+
+	.about-details .section-btn {
+	    margin: 20px 12px 20px 0;
+	}
+
+	.about-image .me {
+	    padding-right: 0;
+	}
+
+	.edu-title{
+		margin-top: 100px;
+	}
+
+	.edu-year-2 {
+	    padding-top: 34px;
+	    padding-bottom: 0;
+	}
+
+	.edu-year-3 {
+	    padding-top: 55px;
+	    padding-bottom: 0;
+	}
+	
+	.edu-year-list h4, .edu-name-list h4 {
+	    font-size: 27px;
+	}
+
+	.skill-edu-shape {
+	    bottom: -110px;
+	    left: 80%;
+	}
+
+	.skill-edu-shape img{
+	  width: 100px;
+	}
+
+	.service-btn a{
+	  float: left;
+	  margin-top: 0;
+	}
+
+	.team-img {
+	    height: 470px;
+	}
+
+	.team-hover {
+	    left: 20px;
+	}
+	
+	.testimonial-img{
+		margin-top: 35px;
+	}
+
+	.testimonial-content {
+	    margin-top: 80px;
+	    margin-bottom: 60px;
+	}
+
+	.contact-shape-2 {
+	    top: 40px;
+	}
+
+	.footer-top ul{
+		float: right;
+	}
+
+	.footer-right {
+	    padding-left: 0;
+	}
+
+	.footer-top ul li a {
+	    padding: 5px 8px;
+	    font-size: 15px;
+	}
+
+	.footer-right input {
+	    margin-top: 15px;
+	}
+
+	.footer-right button {
+	    margin-top: 15px;
+	}
+
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+	.author-img {
+	    position: absolute;
+	    bottom: 0;
+	    display: block;
+	    right: 10px;
+	}
+
+	.author-details h1 {
+	    font-size: 42px;
+	}
+
+	.offcanvas-menu{
+		width: 285px;
+		right: -285px;
+	}
+
+	.offcanvas-social i{
+		margin: 1px;
+	}
+
+	.menu-item-inner li:hover span {
+	    padding-right: 16px;
+	}
+
+	.edu-year-2 {
+	    padding-top: 0px;
+    	padding-bottom: 0;
+	}
+
+	.service-btn a{
+	  float: right;
+	  margin-top: 30px;
+	}
+
+	.team-hover {
+	    left: 120px;
+	}
+
+	.team-hover a i {
+	    height: 42px;
+	    width: 42px;
+	    line-height: 41px;
+	    margin: 4px;
+	}
+
+	.portfolio-hover{
+		left: 60px;
+	}
+
+	.footer-right input {
+	    margin-top: 0;
+	}
+
+	.footer-right button {
+	    margin-top: 0;
+	}
+	
+}
